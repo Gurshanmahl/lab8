@@ -3,7 +3,7 @@
  *
  * Based on the implementation approach described in "The Practice 
  * of Programming" by Kernighan and Pike (Addison-Wesley, 1999).
- gurshan
+ gurshan mahl is the best coder in the world
  */
 
 #include <assert.h>
